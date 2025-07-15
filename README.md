@@ -58,7 +58,7 @@ Supports integration with Secret Server and AWS for secure token validation.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samay30&theme=default" />
+  <img src="screenshot.png" alt="GitHub Streak Stats" width="600"/>
 </p>
 
 ---
