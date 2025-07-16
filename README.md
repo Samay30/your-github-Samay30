@@ -91,7 +91,7 @@ Data Science: Pandas, NumPy, Matplotlib, SpaCy, Scikit-learn
 
 - LinkedIn: [linkedin.com/in/samaybhojwani](https://www.linkedin.com/in/samay-bhojwani-032060260/)
 - LexiSmart Deployment Link: [https://lambent-souffle-fb184e.netlify.app/](https://lambent-souffle-fb184e.netlify.app/)
-- Email: [samaybhojwani.dev@gmail.com](mailto:sbhojwani2@unl.edu)
+- Email: [sbhojwani2@unl.edu](mailto:sbhojwani2@unl.edu)
 
 ---
 
