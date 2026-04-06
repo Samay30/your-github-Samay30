@@ -2,9 +2,9 @@
 
 <p align="center">
    Machine Learning Engineer | Accessibility Advocate | Software Engineer <br>
-  <a href="https://www.linkedin.com/in/samay-bhojwani-032060260/">🔗 LinkedIn</a> • 
-  <a href="mailto:sbhojwani2@unl.edu">📧 Email</a> • 
-  <a href="https://lambent-souffle-fb184e.netlify.app/">🌐 Portfolio</a>
+  <a href="https://www.linkedin.com/in/samay-bhojwani-032060260/"> LinkedIn</a> • 
+  <a href="mailto:sbhojwani2@unl.edu"> Email</a> • 
+  <a href="https://lambent-souffle-fb184e.netlify.app/"> Portfolio</a>
 </p>
 
 ---
@@ -42,7 +42,7 @@ Built with GPT-4, React, Flask, and AWS Polly. Evaluates outputs using Flesch Re
 Helps students and beginners understand code logic line-by-line with real-time voice + text highlighting.
 
 > Tech Stack: FastAPI, ElevenLabs TTS, VSCode API, JavaScript  
-> [Demo Video](#https://www.linkedin.com/feed/update/urn:li:activity:7337893195344674816/) | 🧩 [VSCode Extension](https://github.com/Samay30/explainmate-backend)
+> [Demo Video](#https://www.linkedin.com/feed/update/urn:li:activity:7337893195344674816/) | [VSCode Extension](https://github.com/Samay30/explainmate-backend)
 
 ---
 
@@ -55,7 +55,7 @@ Supports integration with Secret Server and AWS for secure token validation.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="screenshot.png" alt="GitHub Streak Stats" width="600"/>
