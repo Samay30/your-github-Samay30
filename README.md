@@ -50,8 +50,8 @@ Helps students and beginners understand code logic line-by-line with real-time v
 *A command-line tool for testing and automating OAuth2/OpenID Connect login flows for security and IAM teams.*  
 Supports integration with Secret Server and AWS for secure token validation.
 
-> 🛠 Built with: Python, Requests, AWS SDK, Click  
-> 💡 Used in production for IAM testing at UNL
+> Built with: Python, Requests, AWS SDK, Click  
+> Used in production for IAM testing at UNL
 
 ---
 
