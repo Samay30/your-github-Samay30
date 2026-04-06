@@ -63,7 +63,7 @@ Supports integration with Secret Server and AWS for secure token validation.
 
 ---
 
-## 📂 AI Studio Project README Summary
+## AI Studio Project README Summary
 
 For the Fall AI Studio, my main project is **LexiSmart**:
 
