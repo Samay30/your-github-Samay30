@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Samay</h1>
 
 <p align="center">
-   Machine Learning Engineer | 🧠 Accessibility Advocate | 💻 Software Engineer <br>
+   Machine Learning Engineer | Accessibility Advocate | Software Engineer <br>
   <a href="https://www.linkedin.com/in/samay-bhojwani-032060260/">🔗 LinkedIn</a> • 
   <a href="mailto:sbhojwani2@unl.edu">📧 Email</a> • 
   <a href="https://lambent-souffle-fb184e.netlify.app/">🌐 Portfolio</a>
